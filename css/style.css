@@ -38,7 +38,7 @@ body{
 
 .header__btn{
     float: right;
-    background-color: #ffc222;
+    background-color: #00acc1;
     font-size: 16px;
     color: #1b1b1b;
     line-height: 36px;
@@ -120,7 +120,7 @@ body{
 }
 
 .menu a:hover{
-    border-color: #ffc222;
+    border-color: #00acc1;
 }
 
 #modal{
@@ -170,7 +170,7 @@ body{
     line-height: 24px;
     color: #fff;
     padding: 8px 24px 8px 24px;
-    border: 1px solid #ffc222;
+    border: 1px solid #00acc1;
     border-right-width: 20px;
     position: relative;
     outline: none;
@@ -199,7 +199,7 @@ body{
     color: #fff;
     cursor: pointer;
     outline: none;
-    background-color: #ffc222;
+    background-color: #00acc1;
 }
 .slick-btn.slick-disabled{
     cursor: default;
@@ -209,7 +209,7 @@ body{
 
 /*
 .slick-btn:hover{
-    background-color: #ffc222;
+    background-color: #00acc1;
 }
 */
 .slick-btn::before{
@@ -263,7 +263,7 @@ right: 0;
     position: absolute;
     width: 100px;
     height: 2px;
-    background-color: #ffc222;
+    background-color: #00acc1;
     left: 0;
     top: 11px;
 }
@@ -442,7 +442,7 @@ Edited
     margin-bottom: 8px;
     outline: none;
     height: 40px;
-    border: 1px solid #ffc222;
+    border: 1px solid #00acc1;
     padding: 0px 10px;
 }
 
@@ -517,7 +517,7 @@ Edited
 **/
 .form__box-inner textarea{
     outline: none;
-    border: 1px solid #ffc222;
+    border: 1px solid #00acc1;
     padding: 10px;
     height: 207px;
     resize: none;
@@ -569,7 +569,7 @@ Edited
     transform: translate(-50%);
     width: 40px;
     height: 40px;
-    border: 2px solid #ffc222;
+    border: 2px solid #00acc1;
 }
 
 .advantages__title::after{
@@ -614,7 +614,7 @@ Edited
     font-family: 'icomoon';
     width: 65px;
     height: 30px;
-    background-color: #ffc222;
+    background-color: #00acc1;
     position: absolute;
     top: 0;
     text-align: center;
@@ -660,7 +660,7 @@ Edited
     left: 10px;
     width: 50px;
     height: 55px;
-    background-color: #ffc222;
+    background-color: #00acc1;
     padding-top: 30px;
     text-align: center;
     font-weight: 700;
@@ -753,7 +753,7 @@ Edited
     content: "\f003";
     position: absolute;
     left: 0;
-    color: #ffc222;
+    color: #00acc1;
     font-family: 'icomoon';
 }
 
@@ -814,7 +814,7 @@ Edited
 }
 
 #modal input[type="submit"]{
-    background-color: #ffc222;
+    background-color: #00acc1;
     border: none;
 }
 
