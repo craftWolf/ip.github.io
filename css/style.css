@@ -135,11 +135,11 @@ body{
 }
 
 .slider{
-    background-image: url(../images/slider-fon.jpg);
+    background-image: url(../images/img1.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    min-height: 500px;
+    min-height: 450px;
 }
 
 .slider__item-content{
@@ -152,7 +152,7 @@ body{
 .slider__title{
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
-    color: #fff;
+    color: #00acc1;
     font-size: 30px;
     font-weight: 500;
     line-height: 24px;
@@ -162,7 +162,7 @@ body{
 
 .slider__text{
     font-size: 18px;
-    color: #d3d2d2;
+    color: #00acc1;
     line-height: 24px;
     margin-bottom: 50px;
 
