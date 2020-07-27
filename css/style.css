@@ -32,6 +32,13 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+.header__logo img{
+  margin-top: -30px;
+  padding-top: 20px;
+  margin-bottom: -20px;
+  max-width: 100px;
+}
+
 .header__top{
     background-color: #303030;
 }
